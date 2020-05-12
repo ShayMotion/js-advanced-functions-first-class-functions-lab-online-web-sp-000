@@ -1,3 +1,6 @@
 // Code your solution in this file!
-const drivers = ['Sally', 'Bob', 'Freddy', 'Claudia'];
 
+function returnFirstTwoDriver(driver) {
+  const drivers = ['Sally', 'Bob', 'Freddy', 'Claudia'];
+  return 
+}
